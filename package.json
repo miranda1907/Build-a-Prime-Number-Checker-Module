@@ -1,0 +1,18 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "a prime-checker module",
+"keywords": [
+  "prime",
+  "numbers",
+  "module"
+],
+  "license": "ISC",
+  "author": "Miranda",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node index.js"
+  }
+}
